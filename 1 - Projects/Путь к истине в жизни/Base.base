@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.inFolder("1 - Projects/Путь к истине в жизни")
+    - file.ext == "md"
+views:
+  - type: table
+    name: Все посты
+    order:
+      - file.name
+      - Статус
+      - Дата публикации
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 443
+      note.Статус: 120
+  - type: table
+    name: Опубликованные
+    filters:
+      and:
+        - Статус == "Опубликовано"
+    order:
+      - file.name
+      - Дата публикации
+    sort:
+      - property: Дата публикации
+        direction: DESC
+    columnSize:
+      file.name: 450
