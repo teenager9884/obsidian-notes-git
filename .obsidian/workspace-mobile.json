@@ -11,12 +11,14 @@
             "id": "500e6a7288cf872e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2026-10-01.pdf"
+                "file": "2 - Areas/Техника/Peugeot 207 SW/Обслуживание.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Акт 2026-10-01"
+              "icon": "lucide-file",
+              "title": "Обслуживание"
             }
           }
         ]
@@ -156,8 +158,8 @@
   },
   "active": "500e6a7288cf872e",
   "lastOpenFiles": [
-    "2 - Areas/Техника/Peugeot 207 SW/Обслуживание.md",
     "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2026-10-01.pdf",
+    "2 - Areas/Техника/Peugeot 207 SW/Обслуживание.md",
     "3 - Resources/Гос. поликлиника.md",
     "3 - Resources/ЕРИП пополнение моего счёта.md",
     "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2026-06-24.pdf",
