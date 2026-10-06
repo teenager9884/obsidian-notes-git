@@ -11,14 +11,12 @@
             "id": "500e6a7288cf872e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2 - Areas/Техника/Peugeot 207 SW/Обслуживание.md",
-                "mode": "source",
-                "source": false
+                "file": "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2026-10-01.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Обслуживание"
+              "icon": "lucide-file-text",
+              "title": "Акт 2026-10-01"
             }
           }
         ]
@@ -158,10 +156,10 @@
   },
   "active": "500e6a7288cf872e",
   "lastOpenFiles": [
+    "2 - Areas/Техника/Peugeot 207 SW/Обслуживание.md",
     "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2026-10-01.pdf",
     "3 - Resources/Гос. поликлиника.md",
     "3 - Resources/ЕРИП пополнение моего счёта.md",
-    "2 - Areas/Техника/Peugeot 207 SW/Обслуживание.md",
     "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2026-06-24.pdf",
     "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2025-10-02.pdf",
     "Personal Journal/2026-08-25.md",
@@ -198,7 +196,6 @@
     "2 - Areas/attachments",
     "2 - Areas/Техника/Peugeot 207 SW/attachments/Adobe Scan 7 окт. 2025 г..pdf",
     "2 - Areas/Техника/Peugeot 207 SW/attachments",
-    "1 - Projects/Путь к истине в жизни/Base.base",
-    "3 - Resources/templates"
+    "1 - Projects/Путь к истине в жизни/Base.base"
   ]
 }
