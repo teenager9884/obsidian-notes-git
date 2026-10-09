@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8bf36405dc642c80",
+        "id": "a41751ad279fb26f",
         "type": "tabs",
         "children": [
           {
-            "id": "20bb3280b497abdd",
+            "id": "500e6a7288cf872e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Areas/Техника/Peugeot 207 SW/Инфо.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Инфо"
             }
           }
         ]
@@ -96,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3 - Resources/Гос. поликлиника.md",
+            "file": "2 - Areas/Техника/Racer 300 Triumph/Обслуживание.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,14 +156,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "20bb3280b497abdd",
+  "active": "500e6a7288cf872e",
   "lastOpenFiles": [
-    "2 - Areas/Техника/Peugeot 207 SW/Обслуживание.md",
-    "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2025-10-02.pdf",
-    "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2026-10-01.pdf",
     "3 - Resources/Гос. поликлиника.md",
-    "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2026-06-24.pdf",
     "3 - Resources/ЕРИП пополнение моего счёта.md",
+    "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2026-10-01.pdf",
+    "2 - Areas/Техника/Peugeot 207 SW/Обслуживание.md",
+    "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2026-06-24.pdf",
+    "2 - Areas/Техника/Peugeot 207 SW/attachments/Акт 2025-10-02.pdf",
     "Personal Journal/2026-08-25.md",
     "0. Inbox/Без названия.md",
     "2 - Areas/Техника/Racer 300 Triumph/Обслуживание.md",
@@ -188,6 +192,7 @@
     "Personal Journal/2025-12-07.md",
     "1 - Projects/Путь к истине в жизни/WIP Поиск опоры через пари Паскаля.md",
     "Personal Journal/2025-12-03.md",
+    "1 - Projects/Подарки на ДР.md",
     "Ежедневник/attachments/Adobe Scan 15 нояб. 2025 г. (1).pdf",
     "Ежедневник/attachments",
     "2 - Areas/attachments/Adobe Scan 15 нояб. 2025 г..pdf",
