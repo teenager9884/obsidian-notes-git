@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Areas/Книги/В процессе/Анна Каренина (Л. Толстой, 1887).md",
+                "file": "2 - Areas/Книги/В процессе/Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Анна Каренина (Л. Толстой, 1887)"
+              "title": "Без названия"
             }
           }
         ]
@@ -100,9 +100,9 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3 - Resources/Гос. поликлиника.md",
-            "collapseAll": false,
-            "extraContext": false,
+            "file": "2 - Areas/Книги/В процессе/Без названия.md",
+            "collapseAll": true,
+            "extraContext": true,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
@@ -158,10 +158,16 @@
   },
   "active": "20bb3280b497abdd",
   "lastOpenFiles": [
+    "2 - Areas/Книги/В процессе/Урокі гісторыі (А. Унучак, С. Брышцель, 2026).md",
+    "2 - Areas/Книги/В процессе/Без названия.md",
+    "2 - Areas/Книги/В процессе/Наедине с собой (М. Аврелий).md",
+    "2 - Areas/Книги/В процессе/Силы и престолы (Д. Джонс, 2020).md",
+    "2 - Areas/Книги/Готово/Смысл жизни (Марцинковский, 1925).md",
+    "2 - Areas/Книги/Готово/Воскресение Бога воплощенного (Р. Суинберн, 2003).md",
+    "2 - Areas/Книги/В процессе/Анна Каренина (Л. Толстой, 1887).md",
     "2 - Areas/Книги/Готово/Братья Карамазовы (Ф. Достоевский, 1880).md",
     "2 - Areas/Книги/В процессе/Куда идёшь (Г. Сенкевич, ----).md",
     "2 - Areas/Книги/Список.base",
-    "2 - Areas/Книги/В процессе/Анна Каренина (Л. Толстой, 1887).md",
     "2 - Areas/Книги/Готово/Чудо (К.С. Льюис, 1944).md",
     "2 - Areas/Книги/Как работать с книгами.md",
     "2 - Areas/Техника/Peugeot 207 SW/Обслуживание.md",
@@ -182,18 +188,12 @@
     "Personal Journal/2026-04-05.md",
     "Personal Journal/2026-04-02.md",
     "2 - Areas/Здоровье/Питание/Продукты с клетчаткой.md",
-    "2 - Areas/Здоровье/Питание/Продукты для закупки.md",
     "2 - Areas/Здоровье/Питание/attachments/злаки и бобовые.jpeg",
     "2 - Areas/Здоровье/Питание/attachments/сухофрукты.jpeg",
     "2 - Areas/Здоровье/Питание/attachments/фрукты.jpg",
     "2 - Areas/Здоровье/Питание/attachments/орехи и семена.jpeg",
     "2 - Areas/Здоровье/Питание/attachments/овощи.jpg",
     "2 - Areas/Здоровье/Питание/attachments/ягоды.jpg",
-    "Personal Journal/2026-01-04.md",
-    "Personal Journal/2025-12-30.md",
-    "0. Inbox/Untitled.md",
-    "2 - Areas/Фильмы.md",
-    "Personal Journal/Архив/2025/2025-08-13.md",
     "Ежедневник/attachments/Adobe Scan 15 нояб. 2025 г. (1).pdf",
     "Ежедневник/attachments",
     "2 - Areas/attachments/Adobe Scan 15 нояб. 2025 г..pdf",
